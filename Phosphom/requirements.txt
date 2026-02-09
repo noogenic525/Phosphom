@@ -1,0 +1,6 @@
+# Phosphom v2.0 — required dependencies
+# Pin minimum versions for reproducibility
+
+python-docx>=0.8.11
+pandas>=1.5.0
+openpyxl>=3.0.10
